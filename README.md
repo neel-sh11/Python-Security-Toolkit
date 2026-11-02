@@ -100,7 +100,26 @@ Concepts Practiced:
 - Conditional statements
 - Basic SOC monitoring concepts
 
- Improve TCP port scanner with service detection 
+ Improve TCP port scanner with service 
+ 
+ 5. File Integrity Monitor
+
+A Python-based security utility that detects file modifications using SHA-256 cryptographic hashing.
+
+Features:
+- Calculates SHA-256 file hashes
+- Reads files in binary mode
+- Stores an original hash for comparison
+- Detects file modifications
+- Generates a security alert when changes are detected
+
+Concepts Practiced:
+- File integrity monitoring (FIM)
+- Cryptographic hashing
+- SHA-256
+- Python file handling
+- Data integrity and tampering detection
+
 
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
