@@ -63,6 +63,24 @@ Features:
 - Special characters
 - Cryptographically stronger random generation using `secrets`
 
+  3. SHA-256 Hash Generator
+
+A Python-based utility that generates SHA-256 cryptographic hashes from text input.
+
+Features:
+- Generates SHA-256 hashes
+- Uses Python hashlib library
+- Converts text into bytes
+- Produces 64-character hexadecimal digests
+- Handles empty input
+
+Concepts Practiced:
+- Cryptographic hashing
+- SHA-256
+- Hash functions
+- Data integrity
+- Python hashlib
+
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
 Security Score: 5 / 5
