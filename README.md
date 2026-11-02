@@ -47,7 +47,21 @@ Input:
 
 Hello@123
 
-Example Output:
+Example Output: Strong
+
+ 2. Secure Password Generator
+
+Generates random passwords using Python's `secrets` module.
+
+Features:
+
+- Custom password length
+- Minimum length validation
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
+- Cryptographically stronger random generation using `secrets`
 
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
