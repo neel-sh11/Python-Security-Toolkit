@@ -63,7 +63,7 @@ Features:
 - Special characters
 - Cryptographically stronger random generation using `secrets`
 
-  3. SHA-256 Hash Generator
+ 3. SHA-256 Hash Generator
 
 A Python-based utility that generates SHA-256 cryptographic hashes from text input.
 
@@ -80,6 +80,25 @@ Concepts Practiced:
 - Hash functions
 - Data integrity
 - Python hashlib
+
+
+4. Login Attempt Analyzer
+
+A Python-based security utility that analyzes login activity and identifies suspicious failed login attempts.
+
+Features:
+- Tracks failed login attempts
+- Groups attempts by IP address
+- Detects repeated failed attempts
+- Flags suspicious login activity
+- Generates a basic security report
+
+Concepts Practiced:
+- Security log analysis
+- Python dictionaries
+- Data processing
+- Conditional statements
+- Basic SOC monitoring concepts
 
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
