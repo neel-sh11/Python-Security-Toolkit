@@ -100,6 +100,8 @@ Concepts Practiced:
 - Conditional statements
 - Basic SOC monitoring concepts
 
+ Improve TCP port scanner with service detection 
+
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
 Security Score: 5 / 5
