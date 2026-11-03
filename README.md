@@ -218,6 +218,26 @@ Concepts Practiced:
 
 
 
+ 12. Security Audit Report Generator
+
+A Python-based utility that evaluates sample security configurations and generates a basic security audit report.
+
+Features:
+- Performs multiple security checks
+- Identifies failed security controls
+- Calculates a security score
+- Assigns a security rating
+- Generates improvement recommendations
+- Exports a text-based audit report
+
+Concepts Practiced:
+- Security auditing
+- Security controls
+- Risk assessment fundamentals
+- Security documentation
+- Python file handling
+- Report generation
+
 
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
