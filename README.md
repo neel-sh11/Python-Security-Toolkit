@@ -40,8 +40,11 @@ Projects
 
 05. TCP Port Scanner
 
-* Checks selected TCP ports on a target system.
-* Demonstrates basic network scanning using Python sockets.
+* Scans selected TCP ports on a target IP address.
+* Uses Python’s socket module to establish TCP connections.
+* Identifies ports as open or closed/filtered.
+* Displays associated service names.
+* Generates a summary of the scanning results.
 
 06. File Integrity Monitor
 
