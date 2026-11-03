@@ -72,9 +72,13 @@ Projects
 
 09. Suspicious URL Checker
 
-* Checks URLs for potentially suspicious characteristics.
-* Uses basic rules to identify possible risks.
-
+* Analyses URLs using Python’s urllib.parse module.
+* Checks for suspicious keywords and unusual URL patterns.
+* Identifies IP addresses used as hostnames.
+* Checks URL length and HTTPS usage.
+* Calculates a basic risk score.
+* Generates a LOW, MEDIUM, or HIGH risk assessment.
+  
 10. File Metadata Inspector
 
 * Extracts basic file metadata using Python’s os module.
