@@ -6,11 +6,14 @@ This repository includes 12 small projects covering password security, file inte
 
 Projects
 
-01. Password Checker
+01. Password Strength Checker
 
-* Evaluates password strength using basic security rules.
+* Evaluates password strength using five basic security criteria.
 * Checks length, uppercase, lowercase, digits, and special characters.
-
+* Calculates a security score out of five.
+* Classifies passwords as weak, moderate, or strong.
+* Provides basic password improvement suggestions.
+  
 02. Secure Password Generator
 
 * Generates random passwords using Python’s secrets module.
