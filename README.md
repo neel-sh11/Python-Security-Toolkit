@@ -58,10 +58,12 @@ Projects
 * Extracts file name, extension, size, and timestamps.
 * Generates a SHA-256 hash for the inspected file.
 
-11. Caesar Cipher Demo
+11. Caesar Cipher Tool
 
-* Demonstrates basic encryption and decryption.
-* Uses character shifting to explain classical cryptography.
+* Encrypts and decrypts text using a shift-based substitution technique.
+* Supports uppercase and lowercase letters.
+* Preserves spaces, numbers, and special characters.
+* Validates shift values and handles invalid input.
 
 12. Security Audit Report Generator
 
