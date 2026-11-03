@@ -141,6 +141,26 @@ Concepts Practiced:
 - Basic SOC monitoring
 
 
+ 8. IP Address Validator
+
+A Python utility that validates IP addresses and identifies their address categories.
+
+Features:
+- Validates IPv4 and IPv6 addresses
+- Identifies private and public IP addresses
+- Detects invalid IP formats
+- Displays IP version information
+- Handles invalid input safely
+
+Concepts Practiced:
+- IP addressing
+- IPv4 and IPv6
+- Private and public IP ranges
+- Python ipaddress module
+- Exception handling
+  
+
+
 
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
