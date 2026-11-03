@@ -47,8 +47,12 @@ Projects
 
 07. Log File Analyzer
 
-* Reads and analyses login log records.
-* Counts successful and failed logins and flags suspicious activity.
+* Reads and analyses login records from a text file.
+* Tracks successful and failed login attempts.
+* Identifies invalid log entries.
+* Monitors repeated failed attempts by IP address.
+* Flags suspicious login activity.
+* Generates a basic security analysis report.
 
 08. IP Address Validator
 
