@@ -198,6 +198,24 @@ Concepts Practiced:
 - Cryptographic hashing
 
 
+ 11. Caesar Cipher & Encryption Demo
+
+A Python-based educational tool that demonstrates classical encryption and decryption using the Caesar cipher.
+
+Features:
+- Encrypts text using a shift value
+- Decrypts encrypted messages
+- Supports uppercase and lowercase letters
+- Preserves spaces and special characters
+- Validates shift values
+
+Concepts Practiced:
+- Cryptography fundamentals
+- Substitution ciphers
+- Encryption and decryption
+- ASCII character manipulation
+- Python functions and loops
+
 
 
 
