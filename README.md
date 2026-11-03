@@ -158,7 +158,27 @@ Concepts Practiced:
 - Private and public IP ranges
 - Python ipaddress module
 - Exception handling
+
   
+ 9. Suspicious URL Checker
+
+A Python-based utility that identifies potentially suspicious URL patterns using basic rule-based analysis.
+
+Features:
+- Checks HTTPS usage
+- Detects suspicious keywords
+- Identifies IP-based URLs
+- Checks unusually long URLs
+- Detects unusual URL structures
+- Generates a URL risk assessment
+
+Concepts Practiced:
+- Phishing awareness
+- URL parsing
+- IP address validation
+- Python urllib module
+- Rule-based security analysis
+
 
 
 
