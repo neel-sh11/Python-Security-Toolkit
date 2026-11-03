@@ -36,8 +36,11 @@ Projects
 
 06. File Integrity Monitor
 
-* Calculates SHA-256 file hashes.
-* Detects file modifications by comparing hash values.
+* Calculates SHA-256 hashes of files using Python’s hashlib module.
+* Reads file data in chunks for hashing.
+* Compares original and updated hash values.
+* Detects simulated file modifications.
+* Demonstrates basic file integrity monitoring.
 
 07. Log File Analyzer
 
