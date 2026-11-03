@@ -179,6 +179,25 @@ Concepts Practiced:
 - Python urllib module
 - Rule-based security analysis
 
+ 10. File Metadata Inspector
+
+A Python-based utility that extracts basic metadata and calculates the SHA-256 hash of files.
+
+Features:
+- Extracts file names and extensions
+- Calculates file size
+- Displays file timestamps
+- Identifies MIME types where available
+- Generates SHA-256 hashes
+
+Concepts Practiced:
+- Digital forensics fundamentals
+- File system metadata
+- Python file handling
+- MIME type identification
+- Cryptographic hashing
+
+
 
 
 
