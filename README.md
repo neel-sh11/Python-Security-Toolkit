@@ -92,8 +92,12 @@ Projects
 
 12. Security Audit Report Generator
 
-* Evaluates simulated security controls.
-* Generates a basic security audit report.
+* Evaluates predefined security controls using Python.
+* Identifies passed and failed security checks.
+* Calculates an overall security score.
+* Assigns a basic security rating.
+* Generates recommendations for failed controls.
+* Exports the audit summary to a text file.
 
 Technologies Used
 
