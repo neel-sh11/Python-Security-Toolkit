@@ -120,6 +120,27 @@ Concepts Practiced:
 - Python file handling
 - Data integrity and tampering detection
 
+  
+ 7. Log File Analyzer
+
+A Python-based security utility that reads login records from a text file and detects repeated failed login attempts.
+
+Features:
+- Reads login records from a text file
+- Counts successful and failed logins
+- Tracks failed attempts by IP address
+- Identifies suspicious IP addresses
+- Detects invalid log records
+- Generates a security summary
+
+Concepts Practiced:
+- File handling
+- Log analysis
+- Python dictionaries
+- Data processing
+- Basic SOC monitoring
+
+
 
 ===== PASSWORD SECURITY REPORT =====
 Password Length: 9
