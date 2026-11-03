@@ -61,8 +61,11 @@ Projects
 
 10. File Metadata Inspector
 
-* Extracts file name, extension, size, and timestamps.
-* Generates a SHA-256 hash for the inspected file.
+* Extracts basic file metadata using Python’s os module.
+* Displays file name, extension, size, and timestamps.
+* Identifies the estimated MIME type using mimetypes.
+* Calculates the file’s SHA-256 hash.
+* Generates a simple file metadata report.
 
 11. Caesar Cipher Tool
 
