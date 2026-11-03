@@ -26,8 +26,11 @@ Projects
 
 04. Login Attempt Analyzer
 
-* Analyses sample login records.
-* Identifies repeated failed login attempts and suspicious IP addresses.
+* Analyses predefined login records using Python.
+* Tracks failed login attempts by IP address.
+* Identifies repeated failed authentication attempts.
+* Flags IP addresses with three or more failures.
+* Generates a basic login security report.
 
 05. TCP Port Scanner
 
