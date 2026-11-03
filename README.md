@@ -18,8 +18,11 @@ Projects
 
 03. SHA-256 Text Hash Generator
 
-* Generates SHA-256 hashes from text input.
-* Demonstrates basic cryptographic hashing.
+* Generates SHA-256 hashes from user-provided text.
+* Uses Python’s built-in hashlib module.
+* Converts text into UTF-8 before hashing.
+* Handles empty input.
+* Demonstrates basic cryptographic hashing and data integrity concepts.
 
 04. Login Attempt Analyzer
 
