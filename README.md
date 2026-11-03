@@ -45,6 +45,8 @@ Projects
 
 * Validates IPv4 and IPv6 addresses.
 * Identifies address types using Python’s ipaddress module.
+* * Classifies addresses as private, public, or special-purpose.
+* Handles invalid input using exception handling.
 
 09. Suspicious URL Checker
 
