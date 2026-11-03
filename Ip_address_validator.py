@@ -3,7 +3,7 @@ import ipaddress
 
 print("===== IP ADDRESS VALIDATOR =====")
 
-ip_input = input("Enter an IPv4 address: ")
+ip_input = input("Enter an IPv4 or IPv6 address: ")
 
 try:
     ip = ipaddress.ip_address(ip_input)
