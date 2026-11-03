@@ -17,7 +17,10 @@ Projects
 02. Secure Password Generator
 
 * Generates random passwords using Python’s secrets module.
-* Includes uppercase, lowercase, numbers, and special characters.
+* Supports uppercase, lowercase, digits, and special characters.
+* Ensures character variety in every generated password.
+* Uses secure random selection and shuffling.
+* Validates password length before generation.
 
 03. SHA-256 Text Hash Generator
 
